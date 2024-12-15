@@ -13,7 +13,7 @@ Cette application Streamlit permet aux utilisateurs de rechercher et d'afficher 
 - **Sélection de Module**: Affiche les modules disponibles en fonction de la formation sélectionnée.
 - **Sélection d'Année**: Affiche les années disponibles en fonction du module sélectionné.
 - **Recherche de Texte**: Permet de rechercher du texte dans les fichiers associés.
-- **Affichage des Résultats**: Affiche les fichiers trouvés avec la possibilité de les télécharger.
+- **Affichage des Résultats**: Affiche les fichiers trouvés avec la possibilité de les télécharger
 
 ## Installation
 
